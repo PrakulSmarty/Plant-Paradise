@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plant-Paradise/static/css/main.d8113474.css",
+    "main.js": "/Plant-Paradise/static/js/main.29a1e676.js",
+    "index.html": "/Plant-Paradise/index.html",
+    "main.d8113474.css.map": "/Plant-Paradise/static/css/main.d8113474.css.map",
+    "main.29a1e676.js.map": "/Plant-Paradise/static/js/main.29a1e676.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8113474.css",
+    "static/js/main.29a1e676.js"
+  ]
+}
