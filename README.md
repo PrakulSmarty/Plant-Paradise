@@ -50,18 +50,10 @@ A modern, interactive plant shop website built with React and Redux. Discover an
 - **Cart**: Manage items with increase/decrease buttons, remove items, view total
 - **Navigation**: Use the header to switch between pages
 
-## Screenshots
-
-*(Add images here if available)*
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is for educational purposes and is not licensed for commercial use.
-
 ## Author
 
-PrakulSmarty
+Prakul Patel
